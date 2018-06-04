@@ -1,2 +1,4 @@
 # gsv
-symverse block chain
+gsv is Golang SymVerse.
+
+
